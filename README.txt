@@ -1,10 +1,7 @@
 
-https://abdul-rahman47896.github.io/
+  Hi Folks! I'm Abdul Rahman.
+    Data Analyst well versed with Excel, SQL, Power BI, Tableau, R and Python. Certified by Google Data Analytics Specialization.
+   
 
-
-
-Forty by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-
-
+Please click the below click to visit my portfolio.
+    https://abdul-rahman47896.github.io/
